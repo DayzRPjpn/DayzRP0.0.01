@@ -1,0 +1,138 @@
+<territory color="1124502272">
+    <zone name="InfectedArmyHard" smin="0" smax="0" dmin="9" dmax="13" x="7971.43" z="14642.8" r="110"/>
+    <zone name="InfectedArmyHard" smin="0" smax="0" dmin="10" dmax="14" x="7781.25" z="14780.3" r="120"/>
+    <zone name="InfectedArmyHard" smin="6" smax="8" dmin="8" dmax="12" x="1684.51" z="14254.8" r="160"/>
+    <zone name="InfectedArmyHard" smin="6" smax="8" dmin="8" dmax="10" x="4197.51" z="11036.8" r="110"/>
+    <zone name="InfectedArmyHard" smin="6" smax="8" dmin="4" dmax="8" x="4458.96" z="9614.9" r="100"/>
+    <zone name="InfectedArmyHard" smin="6" smax="8" dmin="8" dmax="10" x="4519.75" z="8303.5" r="100"/>
+    <zone name="InfectedArmyHard" smin="6" smax="8" dmin="4" dmax="6" x="1158.25" z="7236.92" r="80"/>
+    <zone name="InfectedArmyHard" smin="6" smax="8" dmin="10" dmax="12" x="2564.11" z="5083.26" r="90"/>
+    <zone name="InfectedArmyHard" smin="8" smax="10" dmin="8" dmax="10" x="1508.5" z="13619" r="140"/>
+    <zone name="InfectedArmyHard" smin="0" smax="0" dmin="7" dmax="10" x="4063.29" z="11645.1" r="100"/>
+    <zone name="InfectedArmyHard" smin="6" smax="8" dmin="10" dmax="12" x="1818.5" z="13816" r="160"/>
+    <zone name="InfectedArmyHard" smin="0" smax="0" dmin="8" dmax="12" x="5244.71" z="9816.21" r="120"/>
+    <zone name="InfectedArmyHard" smin="6" smax="8" dmin="8" dmax="10" x="4773.33" z="10288.3" r="100"/>
+    <zone name="InfectedArmyHard" smin="0" smax="0" dmin="7" dmax="10" x="4007.14" z="11843.6" r="100"/>
+    <zone name="InfectedArmyHard" smin="0" smax="6" dmin="12" dmax="14" x="4666.33" z="9616.33" r="100"/>
+		<zone name="InfectedArmy1" smin="0" smax="1" dmin="2" dmax="5" x="4661" z="10045" r="120"/><!--Wood2-->
+		<zone name="InfectedArmy1" smin="0" smax="1" dmin="2" dmax="5" x="3761" z="11032" r="70"/><!--Wood2-->
+		<zone name="InfectedArmy1" smin="0" smax="1" dmin="2" dmax="5" x="4402" z="11081" r="70"/><!--Wood2-->
+		<zone name="InfectedArmy1" smin="0" smax="1" dmin="2" dmax="5" x="3711" z="11306" r="70"/><!--Wood2-->
+		<zone name="InfectedArmy1" smin="0" smax="1" dmin="2" dmax="5" x="4036" z="10322" r="70"/><!--Wood2-->
+		<zone name="InfectedArmy1" smin="0" smax="1" dmin="2" dmax="5" x="3917" z="10491" r="70"/><!--Wood2-->
+		<zone name="InfectedArmy1" smin="0" smax="1" dmin="2" dmax="5" x="3905" z="10530" r="70"/><!--Wood2-->
+		<zone name="InfectedArmy1" smin="0" smax="0" dmin="5" dmax="5" x="4013" z="10611" r="90"/><!--Wood2-->
+		<zone name="InfectedArmy1" smin="2" smax="3" dmin="5" dmax="5" x="3860" z="10898" r="100"/><!--Wood2-->
+		<zone name="InfectedArmy1" smin="0" smax="1" dmin="2" dmax="5" x="4126" z="10237" r="40"/><!--Wood2-->
+		<zone name="InfectedArmy1" smin="0" smax="1" dmin="2" dmax="5" x="4634" z="11011" r="20"/><!--Wood-->
+		<zone name="InfectedArmy1" smin="0" smax="1" dmin="2" dmax="5" x="4708" z="10910" r="50"/><!--Wood-->
+		<zone name="InfectedArmy1" smin="0" smax="1" dmin="2" dmax="5" x="4805" z="10839" r="80"/><!--Wood-->
+		<zone name="InfectedArmy1" smin="0" smax="1" dmin="2" dmax="5" x="4629" z="10638" r="80"/><!--Wood2-->
+		<zone name="InfectedArmy1" smin="0" smax="1" dmin="2" dmax="5" x="5031" z="9630" r="80"/><!--Wood-->
+		<zone name="InfectedArmy1" smin="0" smax="1" dmin="2" dmax="5" x="4871" z="9521" r="80"/><!--Wood-->
+		<zone name="InfectedArmy1" smin="0" smax="0" dmin="5" dmax="5" x="4731" z="10345" r="10"/><!--Wood2-->
+		<zone name="InfectedArmy1" smin="0" smax="1" dmin="5" dmax="5" x="4791" z="10145" r="80"/><!--Wood2-->
+		<zone name="InfectedArmy1" smin="0" smax="0" dmin="5" dmax="5" x="4814" z="10429" r="80"/><!--Wood-->
+		<zone name="InfectedArmy1" smin="0" smax="0" dmin="5" dmax="5" x="4942" z="10092" r="100"/><!--Wood2-->
+		<zone name="InfectedArmy1" smin="0" smax="1" dmin="5" dmax="5" x="5147" z="10201" r="80"/><!--Wood2-->
+		<zone name="InfectedArmy1" smin="0" smax="0" dmin="5" dmax="5" x="5318" z="10064" r="80"/><!--Wood2-->
+		<zone name="InfectedArmy1" smin="0" smax="0" dmin="5" dmax="5" x="5140" z="10048" r="80"/><!--Wood2-->
+		<zone name="InfectedArmy1" smin="0" smax="0" dmin="5" dmax="5" x="5081" z="9942" r="80"/><!--Wood2-->
+		<zone name="InfectedArmy1" smin="0" smax="1" dmin="5" dmax="5" x="5228" z="9942" r="80"/><!--Wood2-->
+		<zone name="InfectedArmy1" smin="0" smax="0" dmin="5" dmax="5" x="5380" z="9750" r="80"/><!--Wood-->
+		<zone name="InfectedArmy1" smin="0" smax="0" dmin="5" dmax="5" x="5317" z="9718" r="80"/><!--Wood2-->
+		<zone name="InfectedArmy1" smin="0" smax="1" dmin="5" dmax="5" x="5122" z="9294" r="80"/><!--Wood-->
+		<zone name="InfectedArmy1" smin="0" smax="0" dmin="5" dmax="5" x="5237" z="9700" r="80"/><!--Wood2-->
+		<zone name="InfectedArmy1" smin="0" smax="0" dmin="5" dmax="5" x="5253" z="9600" r="80"/><!--Wood2-->
+		<zone name="InfectedArmy1" smin="0" smax="0" dmin="5" dmax="5" x="5185" z="9523" r="80"/><!--Wood-->
+		<zone name="InfectedArmy1" smin="0" smax="1" dmin="5" dmax="5" x="5098" z="9401" r="80"/><!--Wood-->
+		<zone name="InfectedArmy1" smin="0" smax="1" dmin="5" dmax="5" x="4974" z="9166" r="80"/><!--Wood-->
+		<zone name="InfectedArmy1" smin="0" smax="0" dmin="5" dmax="5" x="4792" z="9295" r="80"/><!--Wood-->
+		<zone name="InfectedArmy1" smin="0" smax="0" dmin="5" dmax="5" x="4681" z="9537" r="80"/><!--Wood-->
+		<zone name="InfectedArmy1" smin="0" smax="0" dmin="5" dmax="5" x="4426" z="9634" r="80"/><!--Wood--> 
+		<zone name="InfectedArmy1" smin="0" smax="0" dmin="3" dmax="5" x="4063.29" z="11645.1" r="80"/> <!-- Far N of NWAF Compound by Forests-->
+		<zone name="InfectedArmy1" smin="0" smax="0" dmin="3" dmax="5" x="5368.35" z="9884.52" r="80"/> <!-- SE NWAF Boot Camp course-->
+		<zone name="InfectedArmy1" smin="8" smax="8" dmin="10" dmax="14" x="4627.5" z="10492.5" r="80"/> <!-- NWAF ATC-->
+		<zone name="InfectedArmy1" smin="8" smax="8" dmin="10" dmax="14" x="5309.53" z="9804.80" r="80"/> <!-- SE NWAF By 3 Barracks-->
+		<zone name="InfectedArmy1" smin="8" smax="8" dmin="10" dmax="15" x="4843.36" z="10333.20" r="80"/> <!-- NWAF S of ATC-->
+		<zone name="InfectedArmy1" smin="8" smax="8" dmin="10" dmax="12" x="4297.96" z="10161.12" r="80"/> <!-- W NWAF 2 Barracks-->
+		<zone name="InfectedArmy1" smin="0" smax="0" dmin="10" dmax="10" x="4937.14" z="10446.4" r="80"/> <!-- NWAF E Entrance from Grishino-->
+		<zone name="InfectedArmy1" smin="8" smax="8" dmin="10" dmax="12" x="4214.18" z="11041.8" r="90"/> <!-- N NWAF Tents-->
+		<zone name="InfectedArmy1" smin="8" smax="8" dmin="3" dmax="5" x="4446.22" z="10838.75" r="90"/> <!-- NWAF Industrial by 1 barracks-->
+		<zone name="InfectedArmy1" smin="8" smax="8" dmin="3" dmax="5" x="4132.69" z="10550.01" r="80"/> <!-- W NWAF Prison by 1 barracks-->
+		<zone name="InfectedArmy1" smin="8" smax="8" dmin="10" dmax="14" x="4567.26" z="9528.69" r="80"/> <!-- SW NWAF Military Compound-->
+		<zone name="InfectedArmy1" smin="0" smax="0" dmin="10" dmax="12" x="4007.14" z="11843.6" r="80"/> <!-- Far N of NWAF Barracks | BEGIN ADDITIONAL MILITARY SPAWNS | -->
+		<zone name="InfectedArmy1" smin="0" smax="0" dmin="10" dmax="8" x="3999.01" z="11806.11" r="80"/> <!-- Far N of NWAF Barracks-->
+		<zone name="InfectedArmy1" smin="5" smax="5" dmin="10" dmax="12" x="4494.83" z="9577.30" r="100"/> <!-- SW NWAF compound W Side-->
+		<zone name="InfectedArmy1" smin="7" smax="7" dmin="10" dmax="12" x="4625.11" z="9594.80" r="100"/> <!-- SW NWAF compound E Side-->
+		<zone name="InfectedArmy1" smin="7" smax="7" dmin="10" dmax="12" x="4559.48" z="9660.43" r="100"/> <!-- SW NWAF compound N Side-->
+		<zone name="InfectedArmy1" smin="7" smax="7" dmin="10" dmax="8" x="4219.70" z="10350.21" r="70"/> <!-- W NWAF 1 Barracks-->
+		<zone name="InfectedArmy1" smin="7" smax="7" dmin="5" dmax="5" x="5058.22" z="9823.76" r="90"/> <!-- SE NWAF 2 Barracks-->
+		<zone name="InfectedArmy1" smin="4" smax="4" dmin="5" dmax="5" x="4752.46" z="10619.03" r="100"/> <!-- E NWAF 1 Barracks /garages-->
+		<zone name="InfectedArmy1" smin="0" smax="0" dmin="4" dmax="8" x="4048.11" z="10922.85" r="70"/> <!-- NWAF Plane Crash-->
+    <zone name="InfectedArmy" smin="3" smax="5" dmin="6" dmax="13" x="7992.86" z="14634.2" r="100"/> <!-- Troitskoe-->
+    <zone name="InfectedArmy" smin="4" smax="8" dmin="5" dmax="13" x="7827.86" z="14750.3" r="100"/> <!-- NW Troitskoe -->
+    <zone name="InfectedArmy1" smin="4" smax="8" dmin="6" dmax="13" x="1673.04" z="14335.34" r="80"/> <!-- N Tisy-->
+    <zone name="InfectedArmy1" smin="0" smax="0" dmin="3" dmax="6" x="620.333" z="13648.7" r="75"/> <!-- Far W Tisy-->
+    <zone name="InfectedArmy1" smin="4" smax="8" dmin="6" dmax="14" x="1526.72" z="13597.43" r="100"/> <!-- S Tisy Compound Military Tents-->
+    <zone name="InfectedArmy1" smin="0" smax="0" dmin="3" dmax="7" x="1821" z="13816" r="80"/> <!-- S Tisy Ramps-->
+    <zone name="InfectedArmy1" smin="0" smax="0" dmin="2" dmax="6" x="1064" z="13897.5" r="80"/> <!-- W Tisy-->
+    <zone name="InfectedArmy1" smin="0" smax="0" dmin="5" dmax="12" x="1427" z="14453" r="80"/> <!-- NW Tisy 2 Barracks-->
+    <zone name="InfectedArmy" smin="0" smax="0" dmin="0" dmax="1" x="2085.73" z="3487.81" r="60"/> <!-- N Pavlovo Single Barracks-->
+    <zone name="InfectedArmy" smin="0" smax="0" dmin="0" dmax="1" x="1954.49" z="3403.71" r="60"/> <!-- W Pavlovo Single Barracks-->
+    <zone name="InfectedArmy" smin="4" smax="8" dmin="5" dmax="14" x="2184.23" z="3371.54" r="80"/> <!-- Pavlovo Military Base By Hospital-->
+    <zone name="InfectedArmy" smin="4" smax="8" dmin="6" dmax="12" x="4519.75" z="8303.5" r="90"/> <!-- Dichina Military Base Barracks-->
+    <zone name="InfectedArmy" smin="4" smax="8" dmin="5" dmax="10" x="1158.25" z="7236.92" r="80"/> <!-- W of Myshkino Military-->
+    <zone name="InfectedArmy" smin="4" smax="8" dmin="3" dmax="7" x="4866.70" z="2589.48" r="80"/> <!-- W Balota AF-->
+    <zone name="InfectedArmy" smin="0" smax="0" dmin="5" dmax="10" x="2526.62" z="5111.41" r="100"/> <!-- Zelenogorsk Barracks-->
+    <zone name="InfectedArmy" smin="0" smax="0" dmin="4" dmax="8" x="2703" z="6757.38" r="80"/> <!-- Pass Sosnovy-->
+    <zone name="InfectedArmy" smin="0" smax="0" dmin="7" dmax="15" x="6333" z="7806" r="100"/> <!-- Stary Sobor Military Tents-->
+    <zone name="InfectedArmy" smin="0" smax="0" dmin="4" dmax="8" x="3705" z="5982" r="80"/> <!-- Green Mountain-->
+    <zone name="InfectedArmy1" smin="0" smax="0" dmin="6" dmax="12" x="770" z="1876" r="60"/> <!-- Far W of Kamenka Military Tents-->
+    <zone name="InfectedArmy" smin="0" smax="0" dmin="5" dmax="10" x="338" z="9368" r="80"/> <!-- SW Zabolotye-->
+    <zone name="InfectedArmy" smin="0" smax="0" dmin="6" dmax="10" x="13622" z="13756" r="70"/> <!-- N Svetloyarsk Military Tents-->
+    <zone name="InfectedArmy" smin="0" smax="0" dmin="4" dmax="10" x="5794" z="3072" r="70"/> <!-- W Novoselki Military Tents-->
+    <zone name="InfectedArmy" smin="0" smax="0" dmin="6" dmax="12" x="10451.47" z="5954.33" r="80"/> <!-- E Pass Oreshka Military Tents-->
+    <zone name="InfectedArmy" smin="0" smax="0" dmin="6" dmax="12" x="10450" z="9150" r="60"/> <!-- E Gorka Military Tents-->
+    <zone name="InfectedArmy" smin="0" smax="0" dmin="3" dmax="8" x="7105.71" z="12715.7" r="60"/> <!-- W Severograd11-->
+    <zone name="InfectedArmy" smin="0" smax="0" dmin="6" dmax="10" x="9555" z="11808.8" r="60"/> <!-- E Gvozdno Military Tents-->
+    <zone name="InfectedArmy" smin="0" smax="0" dmin="4" dmax="8" x="10224" z="4029" r="60"/> <!-- N Topolka Dam-->
+    <zone name="InfectedArmy" smin="0" smax="0" dmin="4" dmax="8" x="3357.5" z="15185" r="60"/> <!-- Grozovoy Pass-->
+    <zone name="InfectedArmy" smin="0" smax="0" dmin="1" dmax="4" x="3090" z="9990" r="60"/> <!-- Lopatino Nothing here?-->
+    <zone name="InfectedArmy1" smin="0" smax="0" dmin="4" dmax="8" x="11932.61" z="12492.50" r="120"/> <!-- NEAF Airstrip-->
+    <zone name="InfectedArmy1" smin="3" smax="5" dmin="5" dmax="10" x="11861.64" z="12478.40" r="100"/> <!-- NEAF ATC-->
+    <zone name="InfectedArmy" smin="0" smax="0" dmin="6" dmax="14" x="4891.49" z="2463.09" r="100"/> <!-- Balota terminal-->
+    <zone name="InfectedArmy" smin="0" smax="0" dmin="6" dmax="10" x="5245.422" z="2178.55" r="80"/> <!-- Balota Far East Camo Towers-->
+    <zone name="InfectedArmy" smin="0" smax="0" dmin="6" dmax="12" x="5079.422" z="2295.55" r="60"/> <!-- Balota Military Tents SE of Terminal-->
+    <zone name="InfectedArmy1" smin="0" smax="0" dmin="5" dmax="10" x="1447.00" z="13698.54" r="60"/> <!-- Tisy South compound Military Tents-->
+    <zone name="InfectedArmy1" smin="0" smax="0" dmin="5" dmax="8" x="1723.59" z="14234.23" r="70"/> <!-- Tisy Prison-->
+    <zone name="InfectedArmy" smin="0" smax="0" dmin="6" dmax="10" x="2124.14" z="3342.46" r="80"/> <!-- Pavlovo Military Base-->
+    <zone name="InfectedArmy" smin="0" smax="0" dmin="4" dmax="10" x="7883.90" z="14693.60" r="80"/> <!-- Troitskoe-->
+    <zone name="InfectedArmy" smin="0" smax="0" dmin="5" dmax="10" x="2600.02" z="1305.66" r="60"/> <!-- Prison island military-->
+    <zone name="InfectedArmy" smin="0" smax="0" dmin="2" dmax="6" x="13307.78" z="6133.21" r="50"/> <!-- Solnichy Quarry 1 barracks-->
+		<zone name="InfectedArmy" smin="0" smax="0" dmin="3" dmax="7" x="2512.57" z="5075.39" r="90"/> <!-- Zeleno military Barracks-->
+		<zone name="InfectedArmy" smin="0" smax="0" dmin="3" dmax="7" x="2481.42" z="5178.98" r="80"/> <!-- Zeleno military crates-->
+    <zone name="InfectedArmy" smin="0" smax="0" dmin="6" dmax="12" x="7241.66" z="3038.28" r="60"/> <!--Cherno military tents-->
+    <zone name="InfectedArmy" smin="0" smax="0" dmin="6" dmax="12" x="4930.86" z="12980.55" r="70"/> <!--Zaprudnoe Barracks-->
+		<zone name="InfectedArmy1" smin="0" smax="0" dmin="3" dmax="10" x="7423.37" z="2690.98" r="30"/><!--Darkzone-->
+		<zone name="InfectedArmy1" smin="0" smax="0" dmin="3" dmax="10" x="7425.12" z="2608.82" r="30"/><!--Darkzone-->
+		<zone name="InfectedArmy1" smin="0" smax="0" dmin="3" dmax="10" x="7510.68" z="2802.68" r="30"/><!--Darkzone-->
+		<zone name="InfectedArmy1" smin="0" smax="0" dmin="3" dmax="10" x="7555.79" z="2913.23" r="30"/><!--Darkzone-->
+		<zone name="InfectedArmy1" smin="0" smax="0" dmin="3" dmax="10" x="7596.62" z="2927.81" r="30"/><!--Darkzone-->
+		<zone name="InfectedArmy1" smin="0" smax="0" dmin="3" dmax="10" x="7612.66" z="2976.42" r="30"/><!--Darkzone-->
+		<zone name="InfectedArmy1" smin="0" smax="0" dmin="7" dmax="9" x="1600" z="14339" r="80"/><!--Tisyplus--> 
+		<zone name="InfectedArmy1" smin="0" smax="0" dmin="7" dmax="9" x="1682" z="14262" r="80"/><!--Tisyplus--> 
+		<zone name="InfectedArmy1" smin="0" smax="0" dmin="7" dmax="9" x="1581" z="14124" r="80"/><!--Tisyplus--> 
+		<zone name="InfectedArmy1" smin="0" smax="0" dmin="7" dmax="9" x="1744" z="13962" r="80"/><!--Tisyplus--> 
+		<zone name="InfectedArmy1" smin="0" smax="0" dmin="7" dmax="9" x="1763" z="13834" r="80"/><!--Tisyplus--> 
+		<zone name="InfectedArmy1" smin="0" smax="0" dmin="7" dmax="9" x="1896" z="13796" r="80"/><!--Tisyplus--> 
+		<zone name="InfectedArmy1" smin="0" smax="0" dmin="7" dmax="9" x="1800" z="13726" r="80"/><!--Tisyplus--> 
+		<zone name="InfectedArmy1" smin="0" smax="0" dmin="7" dmax="9" x="1621" z="13601" r="80"/><!--Tisyplus--> 
+		<zone name="InfectedArmy1" smin="0" smax="0" dmin="7" dmax="9" x="1503" z="13602" r="140"/><!--Tisyplus--> 
+		<zone name="InfectedArmy1" smin="0" smax="0" dmin="7" dmax="9" x="1471" z="13657" r="80"/><!--Tisyplus--> 
+		<zone name="InfectedArmy1" smin="0" smax="0" dmin="7" dmax="10" x="1538" z="13806" r="130"/><!--Tisyplus--> 
+		<zone name="InfectedArmy1" smin="0" smax="0" dmin="7" dmax="9" x="1630" z="14456" r="100"/><!--Tisyplus--> 
+		<zone name="InfectedArmy1" smin="0" smax="0" dmin="7" dmax="9" x="1805" z="14064" r="100"/><!--Tisyplus--> 
+		<zone name="InfectedArmy1" smin="0" smax="0" dmin="7" dmax="9" x="1834" z="13934" r="150"/><!--Tisyplus-->
+		<zone name="InfectedArmy1" smin="0" smax="0" dmin="7" dmax="9" x="1583" z="13997" r="200"/><!--Tisyplus--> 
+  </territory>
