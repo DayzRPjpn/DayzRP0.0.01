@@ -1,0 +1,34 @@
+	"UIData":
+	{
+		"use3DMap": 0,
+		"HitIndicationData":
+		{
+			"hitDirectionOverrideEnabled": 0,
+			"hitDirectionBehaviour": 1,
+			"hitDirectionStyle": 0,
+			"hitDirectionIndicatorColorStr": "0xffbb0a1e",
+			"hitDirectionMaxDuration": 2.0,
+			"hitDirectionBreakPointRelative": 0.2,
+			"hitDirectionScatter": 10.0,
+			"hitIndicationPostProcessEnabled": 1
+		}
+	}
+    "PlayerData":
+	{
+		"disablePersonalLight": 0,
+		"StaminaData":
+		{
+			"sprintStaminaModifierErc": 1.0,
+			"sprintStaminaModifierCro": 1.0,
+			"staminaWeightLimitThreshold": 6000.0,
+			"staminaMax": 100.0,
+			"staminaKgToStaminaPercentPenalty": 1.75,
+			"staminaMinCap": 5.0
+		},
+		"ShockHandlingData":
+		{
+			"shockRefillSpeedConscious": 5.0,
+			"shockRefillSpeedUnconscious": 1.0,
+			"allowRefillSpeedModifier": true
+		}
+	},
